@@ -32,8 +32,8 @@ CHANNEL_ID = settings.channel_id
 GROUP_ID = settings.group_id 
 
 # Настраиваем идентификатор магазина и секретный ключ
-Configuration.account_id = '994510'  # Ваш Shop ID
-Configuration.secret_key = 'test_mw64Rp0FtdAnhi13My_hDXYfXZ2Nukdin9iZSy0FhBk'
+Configuration.account_id = 'your_shop_id'  # Ваш Shop ID
+Configuration.secret_key = 'your_secret_key'
 
 # Логирование
 logging.basicConfig(level=logging.INFO)
