@@ -1,0 +1,6 @@
+django
+django-async-orm
+psycopg2-binary
+openpyxl
+aiogram>=3.0.0
+python-dotenv
