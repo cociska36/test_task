@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 import asyncio
 from dotenv import load_dotenv
 from database import Database
-from config import settings  # Импортируем settings, а не config
+from config import settings
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery, InlineQuery, InlineQueryResultArticle, InputTextMessageContent
 import openpyxl
 from openpyxl import Workbook
